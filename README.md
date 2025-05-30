@@ -7,7 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **contactus@leastactioncompany.com**
+
+<h3 align="left">Connect with me: ## 📞 Contact Me
+
+- 📱 [Chat with me on WhatsApp](https://wa.me/918825965775)
+- 📧 [Email me](mailto:contactus@leastactioncompany.com)</h3>
 <p align="left">
 </p>
 
