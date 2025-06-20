@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LeasActionCompany Pvt Ltd</h1>
+<h1 align="center">Hi 👋, I'm LeastActionCompany Pvt Ltd</h1>
 <h3 align="center">Product & Service Based Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leastaction25&label=Profile%20views&color=0e75b6&style=flat" alt="leastaction25" /> </p>
